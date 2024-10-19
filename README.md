@@ -26,6 +26,4 @@ This software is created for **educational purposes only** and must not be used 
 - **Sound Distortion**: Plays unsettling audio to further discomfort the victim.
 
 ---
-![Smil](https://i.ibb.co/N7gD8m5/Smil.png)
-
 **💀 Use at Your Own Risk! 💀**
